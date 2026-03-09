@@ -263,7 +263,6 @@ jobs:
             ## Downloads
 
             - `SpotiFLAC.exe` - Windows
-            - `SpotiFLAC.dmg` - macOS
             - `SpotiFLAC.AppImage` - Linux
 
             <details>
